@@ -1,2 +1,2 @@
 # hello_world
-hello_world
+打印“hello world”
